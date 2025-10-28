@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#f5f5f5"/>
+  <circle cx="150" cy="150" r="100" fill="#4a7c2d" opacity="0.3"/>
+  <text x="150" y="160" font-family="Arial, sans-serif" font-size="24" fill="#2d5016" text-anchor="middle">Hero Image</text>
+  <text x="150" y="190" font-family="Arial, sans-serif" font-size="16" fill="#4a7c2d" text-anchor="middle">Placeholder</text>
+</svg>
