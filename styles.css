@@ -1,3 +1,16 @@
+@media (max-width: 700px) {
+  * {
+    background-color: black;
+  }
+}
+
+#navbar {
+  position: absolute;
+  top: 0;
+  display: grid;
+  margin-bottom: 50px;
+}
+
 /* CSS Reset */
 * {
     margin: 0;
@@ -233,7 +246,7 @@ body {
 }
 
 .literary-item p {
-    line-height: 1.6;
+    line-height: 2.6;
 }
 
 /* Footer */
